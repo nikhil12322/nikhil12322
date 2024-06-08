@@ -4,7 +4,7 @@ I'm a 10 year old Indian boy who loves coding. I live in the United States of Am
 
 I'm learning Python, which is also my primary language, HTML, JavaScript, CSS, maybe C and Java in the future.
 
-Pronouns: he/him/his
+**Pronouns**: he/him/his
 
 ## My Broken Repository
 
