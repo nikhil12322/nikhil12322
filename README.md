@@ -8,7 +8,9 @@ I'm learning Python, which is also my primary language, HTML, JavaScript, CSS, m
 
 ## My Broken Repository
 
-I'm currently working on plot-coprime, a repository with broken commit histor. You can't see it since it's private, but I will make it public soon. I call it "broken history" because first of all, the commits do not have the right authors, second of all, the dates of most of the commits are incorrect, and third of all, some of the commits were copied into the serverside, and I pulled it into the local repository. I hope to fix it soon, so I can make it public again.
+I'm currently working on `plot-coprime`, a repository with broken commit histor. You can't see it since it's private, but I will make it public soon. I call it "broken history" because first of all, the commits do not have the right authors, second of all, the dates of most of the commits are incorrect, and third of all, some of the commits were copied into the serverside, and I pulled it into the local repository. I hope to fix it soon, so I can make it public again.
+
+However, I know `plot-coprime` will never be the same again. Why? Because the dates on some commits will be wrong and I have no way of recovering them.
 
 ## GitLab
 
